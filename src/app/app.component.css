@@ -1,0 +1,19 @@
+.auth-container {
+    text-align: center;
+    padding: 50px;
+  }
+  .success {
+    color: green;
+  }
+  .error {
+    color: red;
+  }
+  button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  p {
+    margin: 10px;
+    font-size: 16px;
+  }
